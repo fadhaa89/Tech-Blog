@@ -9,4 +9,3 @@ router.use('/posts', postRoutes);
 router.use('/comments', commentRoutes)
 
 module.exports = router;
-© 2021 GitHub, Inc.
